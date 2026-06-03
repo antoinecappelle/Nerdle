@@ -1,0 +1,20 @@
+                        xxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxx
+                        x    _____     x x    ______    x x     _____    x x    _         x x    ______    x x     _____    x
+                        x   |  __ \    x x   |  ____|   x x    / ____|   x x   | |        x x   |  ____|   x x   / ____|    x
+                        x   | |__| |   x x   | |__      x x   | |  __    x x   | |        x x   | |__      x x   | (___     x
+                        x   |  _  /    x x   |  __|     x x   | | |_ |   x x   | |        x x   |  __|     x x    \___ \    x
+                        x   | | \ \    x x   | |____    x x   | |__| |   x x   | |____    x x   | |____    x x    ____) |   x
+                        x   |_|  \_\   x x   |______|   x x    \_____|   x x   |______|   x x   |______|   x x   |_____/    x
+                        xxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxx 
+
+Mode Arcade:
+Vous devez trouver un mot de 5 à 7 lettres en 6 essais.Si la lettre est bien placée elle s'affichera en vert,si elle est mal placée elle s'affichera en jaune,et si elle est n'est pas présente dans le mot elle s'affichera en rouge.
+
+Mode Histoire (par defaut):
+Le mode Histoire ets similaire au mode Arcade mais les mots se débloquent en fonction du score .Le mot est donc limité a 5 lettres jusqu'a depasser le score de 100, ce qui débloqu lettres.
+La dernière limite se trouve à 200 de score où l'on débloque les 7 lettres  
+
+Attention: Chaque mot doit être écrit sans accent(même s'il y en a un) et exister dans le dictionnaire (voir dictionnaire sur le menu principal)).
+Ex: canoë s'écrira canoe , et akans ne se trouve pas dans le dictionnaire.
+
+Appuyez sur Entrée pour Quitter.
