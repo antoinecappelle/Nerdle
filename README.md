@@ -8,7 +8,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 -Description-
 Version ijava de Wordle,
 Trouvez des mot de 5 lettres en 6 essais pour avoir le meilleur score.
-*Mode Histoire et Mode Arcade Disponibles(voir Règles in-game pour plus d'informations)*
+*Mode Histoire et Mode Arcade Disponibles (voir Règles in-game pour plus d'informations)*
 Chaque mot trouvé rapporte de 1 à 6 points en fonction du nombre d'essais, enchainez les mots pour augmenter votre score.
 Enregistrez vos score,regardez les Règles ,le tableau des scores et la liste de mots.
 --------------------------------------------------------------------------
